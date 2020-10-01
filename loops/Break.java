@@ -6,7 +6,7 @@ public class Break {
 		
 		int i;
 		
-		for(i = 1; i <= 50; i++)
+		for(i = 1; i <= 60; i++)
 		{
 			if(i == 30)
 				break;
