@@ -11,7 +11,7 @@ public class LogicalOperators {
 			System.out.println("Number is out of range");
 		
 		//Logical OR
-		int grade = 12;
+		int grade = 11;
 		if(grade == 10 || grade == 12)
 			System.out.println("You can give board exams");
 		else
