@@ -3,7 +3,7 @@ package operators;
 public class BitwiseOpeartors {
 
 	public static void main(String[] args) {
-		int a = 5;
+		int a = 7;
 		int b = 6;
 		int x = 13;
 		int c = a & b;  //Bitwise AND
